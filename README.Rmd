@@ -1,0 +1,15 @@
+---
+title: TAPS Political Knowledge Data
+author: JBrandon Duck-Mayr
+output:
+    md_document:
+        variant: gfm
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+quack::attach_common_packages()
+```
+
+# TAPS Political Knowledge Data
+
