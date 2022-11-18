@@ -13,3 +13,60 @@ quack::attach_common_packages()
 
 # TAPS Political Knowledge Data
 
+From December 2011 to January 2018, the [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/) ran [The American Panel Survey](https://wc.wustl.edu/american-panel-survey) (TAPS), a monthly survey revisiting the same nationally representative panel of respondents.
+Among the recurring sets of questions asked of respondents was the following political knowledge battery (with the observed answer options for each question listed underneath the question):
+
+- `POLKNOW1`: Which party holds a majority of seats in the U.S. House of Representatives in Washington?
+  - Refused
+  - Democrats
+  - Republicans
+  - Independents
+  - Don't know
+- `POLKNOW2`: How many votes are required in Congress to override a presidential veto?
+  - Refused
+  - A simple majority of one house of Congress
+  - A simple majority of both houses of Congress
+  - A two-thirds majority of one house of Congress
+  - A two-thirds majority of both houses of Congress
+  - Don't know
+- `POLKNOW3`: How long is one term for a member of the U.S. Senate?
+  - Refused
+  - Two years
+  - Four years
+  - Six years
+  - Eight years
+  - Don't know
+- `POLKNOW5`: The ability of a minority of senators to prevent a vote on a bill is known as
+  - Refused
+  - A veto
+  - A filibuster
+  - Enrollment
+  - Suspension of the rules
+  - Don't know
+- `POLKNOW6`: Who is the Vice President of the United States?
+  - Refused
+  - Nancy Pelosi
+  - John Boehner (except in wave 60; for that wave, this answer option was Paul Ryan)
+  - Joseph Biden
+  - Harry Reid
+  - Don't Know
+- `POLKNOW7`: A president may serve
+  - Refused
+  - One term
+  - Two terms
+  - Three terms
+  - Any number of terms
+  - Don't know
+- `POLKNOW12`: Members of the U.S. Supreme court serve
+- `POLKNOW13`: Who is Chief Justice of the United States Supreme Court?
+- `POLKNOW17`: Social Security is
+- `POLKNOW18`: On which of the following federal programs is the most money spent each year?
+- `POLKNOW21`: A system of government in which power is divided between the central government and state or regional governments is called
+- `POLKNOW22`: In modern American politics, which of the following groups generally wants lower taxes and smaller government?
+- `POLKNOW23`: The Secretary of Defense is appointed by the
+- `POLKNOW24`: President Obama is affiliated with what political party?
+- `POLKNOW25`: The Office of Management and Budget?
+
+These questions were asked during the following waves of the panel:
+
+- 
